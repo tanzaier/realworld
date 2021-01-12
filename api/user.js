@@ -1,7 +1,7 @@
 import { request } from '@/plugins/request'
 
 
-// 用户登录
+// 用户 登录
 export const login = data => {
   return request({
     method: 'POST',

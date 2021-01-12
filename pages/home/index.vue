@@ -1,10 +1,10 @@
 <template>
   <div class="home-page">
 
-    <div class="banner" style="background-color:#0c0c0c">
+    <div class="banner">
       <div class="container">
-        <h1 class="logo-font">tanzaier~~~</h1>
-        <p>A place to practice.</p>
+        <h1 class="logo-font">tanzaier666</h1>
+        <p>A place to share your knowledge.</p>
       </div>
     </div>
 

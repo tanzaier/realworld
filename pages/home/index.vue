@@ -1,7 +1,7 @@
 <template>
-  <div class="home-page" style="background-color:#0c0c0c">
+  <div class="home-page">
 
-    <div class="banner">
+    <div class="banner" style="background-color:#0c0c0c">
       <div class="container">
         <h1 class="logo-font">tanzaier~~~</h1>
         <p>A place to practice.</p>
